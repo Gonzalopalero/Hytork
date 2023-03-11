@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=Doj5e7gc570
 
 Como operar una llave hidraulica
 https://www.youtube.com/watch?v=jOk6ZYggc4g
+
+Simulacion de caja reductora planetaria
+https://www.youtube.com/watch?v=Cb3N5c8BJv0
