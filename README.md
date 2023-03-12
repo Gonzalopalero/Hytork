@@ -21,3 +21,9 @@ https://torcstark.com/method-of-controlling-bolt-pretightening-force/
 
 Promt ingeneering
 spx bolting systems low clearance hydraulic torque
+
+Manuals link
+https://hydraulic-wrench.com/OPsManual/SPX/Low%20Profile/TWLC%20Low%20Clearance%20Hydraulic%20Torque%20Wrench%20Operation%20Manual.pdf
+
+Pressure  - torque conversion
+https://www.spxflow.com/assets/pdf/BS_TWLC_Torque_Conversion_Chart_GB.pdf
